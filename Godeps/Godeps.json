@@ -1,5 +1,5 @@
 {
-	"ImportPath": "./bin/hello",
+	"ImportPath": "https://github.com/David-Shibley/goPlayground.git",
 	"GoVersion": "go1.5",
 	"Deps": []
 }
